@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=ILYAS%20ALI-BENYAHIA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20LLMs%20%26%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ILYAS%20ALI-BENYAHIA&fontSize=45&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLMs%20%26%20Intelligent%20Systems&descSize=18" width="100%"/>
 </div>
+
 
 <div align="center">
   
@@ -132,13 +133,13 @@ mindmap
       LLM Integration
       AI Agents
     Full-Stack
-      React & Next.js
+      React & Next.js & REST APi
       Django & Flask
       MERN Stack
     Teaching
       Computer Science
-      AI Concepts
-      Web Development
+      python
+      
     Learning
       Advanced AI
       System Design
