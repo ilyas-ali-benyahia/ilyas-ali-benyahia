@@ -20,87 +20,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🎓 AI-Powered Multilingual Interactive Learning Platform
-**Master's Thesis Project - Transforming multimedia content into interactive learning tools**
-- 🧠 Multilingual support for diverse learners
-- 📚 Converts educational content into interactive formats
-- 🎯 AI-powered content analysis and generation
-- **Tech Stack:** React, Next.js, Django, LangChain, LLMs
-- 📄 **Presented at:** AISTC 2025 Conference (Poster)
-
----
-
-### 🤖 Network Analysis AI Agent
-**AI-powered network diagnostic tool with Claude integration**
-- 🧠 Uses Claude Sonnet 4 for intelligent network analysis
-- 📊 Real-time network monitoring and diagnostics
-- 🔍 Automated problem detection and troubleshooting
-- 🎯 Identifies issues in WiFi, DNS, routing, and connectivity
-- **Tech Stack:** Python, React, Anthropic API, Tailwind CSS
-
----
-
-### 💬 RAG Chatbot Assistant
-**Retrieval-Augmented Generation intelligent assistant**
-- 🔍 Hybrid search implementation
-- 🧠 LLM integration for contextual responses
-- 📚 Document retrieval and processing
-- **Tech Stack:** Python, LangChain, Vector Databases
-
----
-
-### 🚗 License Plate Detection and Recognition System
-**Bachelor's Degree Project - Computer vision for vehicle identification**
-- 📷 Real-time license plate detection
-- 🔤 Character recognition using OCR
-- **Tech Stack:** Python, OpenCV, Machine Learning
-
----
-
-### 📚 MERN Stack Book Store
-**Full-stack web application for managing and browsing books**
-- 📖 Complete book management system
-- 🛒 Shopping cart and user authentication
-- **Tech Stack:** MongoDB, Express.js, React, Node.js
-
----
-
-### 🏗️ Concrete Strength Prediction System
-**Machine learning-based analysis for civil engineering**
-- 📊 Predictive modeling for concrete strength assessment
-- 🤖 AI techniques for optimization
-- 📈 Nondestructive testing support
-- **Tech Stack:** Python, Machine Learning, Data Analysis
-- 📄 **Research:** Co-author of scientific publication (Under Review)
-
----
-
-### 🌐 TranslationManager
-**Startup Team Project - Multilingual content management platform**
-- 🌍 Automated translation workflows
-- 📝 Content management system
-- **Tech Stack:** Full-stack web technologies
-
----
-
-### 📊 PertMaster Web App
-**Team Project - Project management using PERT method**
-- 📅 Task scheduling and tracking
-- 📈 Critical path analysis
-- **Tech Stack:** Web technologies, Project management algorithms
-
----
-
-### 🎁 Gift – Smart Gifting Platform
-**E-commerce with AI-powered personalization**
-- 🎯 Personalized gift recommendations
-- 🛍️ Integrated ordering system
-- 💡 Budget and occasion-based suggestions
-- **Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -162,15 +81,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas-ali-benyahia&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-## 🏆 Achievements & Certificates
 
-✅ **AI4Science 2025** – Prototype & IoT Foundations Workshop  
-✅ **AI4Science 2025** – Artificial Intelligence & Applications Competition  
-✅ **AI4Science 2025** – AI as Driver of Optimization and Innovation in Scientific Research  
-✅ **AISTC 2025** – Presented research at 1st International Conference on AI, Smart Technologies and Communications  
-✅ **Research Publication** – Co-author of international scientific paper (Under Review)
 
 ---
 
