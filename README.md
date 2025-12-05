@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ILYAS%20ALI-BENYAHIA&fontSize=45&fontColor=fff&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLMs%20%26%20Intelligent%20Systems&descSize=18" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=6EE7FF&center=true&vCenter=true&width=1200&lines=ILYAS+ALI-BENYAHIA;AI+Engineer;Full-Stack+Developer;LLMs+%26+Intelligent+Systems">
 </div>
+
 
 
 <div align="center">
